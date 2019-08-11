@@ -1,0 +1,9 @@
+.code {
+    border: 1px dotted blue;
+    display: flex;
+    flex-direction: column;
+}
+
+.error {
+    border-color: red;
+}
